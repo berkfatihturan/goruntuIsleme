@@ -1,0 +1,5 @@
+Aralık: Normalizasyon, veriyi belirli bir aralığa (genellikle [0, 1]) dönüştürürken, standardizasyon veriyi ortalama 0 ve standart sapma 1 olacak şekilde dönüştürür.
+
+Duyarlılık: Normalizasyon, veri setindeki aykırı değerlere karşı duyarlı olabilir, çünkü bu değerler aralığın dışında kalabilir. Standardizasyon, aykırı değerlere daha dayanıklıdır, çünkü bu değerler genellikle ortalama ve standart sapma üzerinde daha etkili olur.
+
+Kullanım Alanları: Normalizasyon, genellikle özellikler arasındaki büyük ölçek farklarını düzeltmek için kullanılırken, standardizasyon genellikle özelliklerin birbirleriyle kıyaslanabilir bir ölçekte olmasını sağlamak için kullanılır.
